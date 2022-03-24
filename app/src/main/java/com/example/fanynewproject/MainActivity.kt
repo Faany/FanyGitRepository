@@ -25,4 +25,12 @@ class MainActivity : AppCompatActivity()
     {
         //Hello
     }
+
+
+    fun thirdFunction()
+    {
+        //Hello
+        //pakistan
+    }
+
 }

@@ -32,5 +32,12 @@ class MainActivity : AppCompatActivity()
         //Hello
         //pakistan
     }
+    
+    fun thirdFunction_fromGitHub()
+    {
+        //Hello
+        //pakistan
+        //Turkey
+    }
 
 }

@@ -47,4 +47,9 @@ class MainActivity : AppCompatActivity()
         //Turkey
     }
 
+    fun fifthFunction()
+    {
+        var obj = fourthClass()
+    }
+
 }

@@ -19,4 +19,10 @@ class MainActivity : AppCompatActivity()
     {
         //Hello
     }
+
+
+    fun secondFunction()
+    {
+        //Hello
+    }
 }
